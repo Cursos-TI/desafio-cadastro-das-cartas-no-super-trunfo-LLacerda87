@@ -4,8 +4,10 @@ int main(){
     int codigo,populacao;
     float area,pib;
     printf("Super trunfo\n");
-    printf("Digite o pais:\n")
-    scanf("%c"&paises);
+    printf("Digite o pais:");
+    scanf("%c",&paises);
+    printf("Digite codigo:");
+    scanf("%d",&codigo);
 
 
     
