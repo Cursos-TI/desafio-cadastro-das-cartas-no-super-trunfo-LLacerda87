@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
     char paises [20];
+    int  codigo;
     
 
     printf("Super trunfo");
