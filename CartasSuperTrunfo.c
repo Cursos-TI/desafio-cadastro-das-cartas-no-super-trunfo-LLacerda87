@@ -1,10 +1,14 @@
 #include <stdio.h>
 int main(){
-    char paises [20];
-    int  codigo;
-    
+    char paises,nome[20];
+    int codigo,populacao;
+    float area,pib;
+    printf("Super trunfo\n");
+    printf("Digite o pais:\n")
+    scanf("%c"&paises);
 
-    printf("Super trunfo");
+
+    
  return 0;
 }
 
